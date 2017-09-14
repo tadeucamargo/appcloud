@@ -1,0 +1,75 @@
+{
+    "MenuSections": [{
+        "id": "1",
+        "title": "Dashboard",
+        "items": [{
+                "id": "11",
+                "title": "Home",
+                "icon": "fa-home",
+                "items": [{
+                        "id": "111",
+                        "title": "Test1"
+                    },
+                    {
+                        "id": "112",
+                        "title": "Test1"
+                    }
+                ]
+            },
+            {
+                "id":"12",
+                "title": "Test",
+                "icon": "fa-dashboard",
+                "items": [{
+                        "id": "121",
+                        "title": "Test1"
+                    },
+                    {
+                        "id": "122",
+                        "title": "Test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Other",
+        "items": [{
+                "id": "21",
+                "title": "Home",
+                "icon": "fa-home",
+                "items": [{
+                        "id": "211",
+                        "title": "Test1"
+                    },
+                    {
+                        "id": "212",
+                        "title": "Test1"
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "title": "Test",
+                "icon": "fa-dashboard",
+                "items": [{
+                        "id": "221",
+                        "title": "Test1"
+                    },
+                    {
+                        "id": "222",
+                        "title": "Test1"
+                    }
+                ]
+            }
+        ]
+    }],
+    "activeMenuSection" : null,
+    "activeMenuItem" : null,
+    "activeMenuNumOfItems" : null,
+    "activeMenuAnimation": null,
+    "activeMenuChild" : null,
+    "activeOpenMenuAnimation": null,
+    "activeCloseMenuAnimation": null
+}
